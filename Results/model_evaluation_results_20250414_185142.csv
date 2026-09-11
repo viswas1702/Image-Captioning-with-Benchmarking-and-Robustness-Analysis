@@ -1,0 +1,8 @@
+metric,value
+accuracy,0.9768270944741533
+precision,0.985480943738657
+recall,0.9679144385026738
+f1_score,0.9766187050359713
+best_lr,1e-05
+best_batch_size,32.0
+best_epochs,3.0
